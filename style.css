@@ -1,0 +1,291 @@
+.a-unique-three {
+  display: flex;
+  flex-direction: column;
+  min-height: 900px;
+  align-items: flex-start;
+  padding: 0px 48px;
+  position: relative;
+  background-color: #0d0402;
+}
+
+.a-unique-three .event-nav-bar-with {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 54px;
+  padding: 0px 0px 54px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 1;
+  background-color: #0d0402;
+  border-bottom-width: 1.5px;
+  border-bottom-style: solid;
+  border-color: transparent;
+}
+
+.a-unique-three .content {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 698px;
+}
+
+.a-unique-three .a-stunning-exterior {
+  display: flex;
+  flex-direction: column;
+  width: 1536px;
+  height: 698px;
+  align-items: center;
+  gap: 36px;
+  padding: 36px 0px 0px;
+  position: relative;
+  left: -96px;
+  background-color: #00000080;
+  border: 1.5px solid;
+  border-color: transparent;
+  background-image: url(./img/a-stunning-exterior-view-of-the-british-museum-showcasing-its-grand-architecture-and-iconic-columns-with-visitors-exploring-the-entrance-on-a-sunny-day.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.a-unique-three .logo {
+  display: flex;
+  width: 200px;
+  height: 32px;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  position: relative;
+}
+
+.a-unique-three .text-wrapper {
+  position: relative;
+  flex: 1;
+  font-family: "Ranchers-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.a-unique-three .main-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 44px;
+  padding: 0px 0px 96px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+}
+
+.a-unique-three .div {
+  position: relative;
+  align-self: stretch;
+  font-family: "Domine-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: -1.28px;
+  line-height: 68px;
+}
+
+.a-unique-three .container {
+  display: flex;
+  align-items: flex-start;
+  padding: 48px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 0;
+}
+
+.a-unique-three .main-content-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.a-unique-three .article-page-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 36px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 6;
+  background-color: #0d0402;
+}
+
+.a-unique-three .p {
+  position: relative;
+  align-self: stretch;
+  height: 32px;
+  margin-top: -1.00px;
+  font-family: "Domine-Regular", Helvetica;
+  font-weight: 400;
+  color: #e4d9d7;
+  font-size: 28px;
+  letter-spacing: -0.56px;
+  line-height: 32px;
+  white-space: nowrap;
+}
+
+.a-unique-three .text-wrapper-2 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Outfit-Regular", Helvetica;
+  font-weight: 400;
+  color: #e4d9d7;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.a-unique-three .image {
+  position: relative;
+  width: 1344px;
+  height: 204px;
+  z-index: 5;
+}
+
+.a-unique-three .article-page-body-2 {
+  z-index: 4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 36px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #0d0402;
+}
+
+.a-unique-three .text-wrapper-3 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Domine-Regular", Helvetica;
+  font-weight: 400;
+  color: #e4d9d7;
+  font-size: 28px;
+  letter-spacing: -0.56px;
+  line-height: 32px;
+}
+
+.a-unique-three .img {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 204px;
+  z-index: 3;
+  object-fit: cover;
+}
+
+.a-unique-three .article-page-body-3 {
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 36px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #0d0402;
+}
+
+.a-unique-three .image-2 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 548.16px;
+  z-index: 1;
+}
+
+.a-unique-three .landing-page-text {
+  display: flex;
+  align-items: flex-start;
+  gap: 96px;
+  padding: 96px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 0;
+  background-color: #0d0402;
+}
+
+.a-unique-three .container-2 {
+  display: flex;
+  align-items: flex-start;
+  gap: 96px;
+  padding: 54px 0px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.a-unique-three .text-wrapper-4 {
+  position: relative;
+  flex: 1;
+  margin-top: -1.00px;
+  font-family: "Domine-Bold", Helvetica;
+  font-weight: 700;
+  color: #e4d9d7;
+  font-size: 48px;
+  letter-spacing: -0.96px;
+  line-height: 52px;
+}
+
+.a-unique-three .div-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 12px 0px 0px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.a-unique-three .text-wrapper-5 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Outfit-Regular", Helvetica;
+  font-weight: 400;
+  color: #e4d9d7;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.a-unique-three .divider {
+  position: absolute;
+  width: 1536px;
+  height: 1px;
+  top: -1999px;
+  left: 897px;
+  object-fit: cover;
+}
