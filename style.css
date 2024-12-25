@@ -10,34 +10,16 @@ body {
   line-height: 1.6;
   color: #fff;
   background-color: #111;
-}
-
-/* Hero Section */
-.hero {
-  background-image: url('images/hero.jpg');
-  background-size: cover;
-  background-position: center;
   text-align: center;
-  color: white;
-  padding: 100px 20px;
 }
 
-.hero-content h1 {
-  font-size: 3rem;
-  text-transform: uppercase;
-  margin-bottom: 10px;
-}
-
-.hero-content h2 {
-  font-size: 2rem;
-  font-weight: lighter;
-}
-
-/* Course Sections */
+/* Course Container */
 .course {
   padding: 50px 20px;
-  text-align: center;
-  border-bottom: 1px solid #333;
+  text-align: left; /* Align text to the left */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .course h3 {
@@ -50,11 +32,13 @@ body {
   font-size: 1rem;
   margin-bottom: 20px;
   color: #ddd;
+  max-width: 800px; /* Set the maximum width */
+  text-align: center; /* Center align text within the container */
 }
 
 .course img {
   width: 100%;
-  max-width: 800px;
+  max-width: 800px; /* Set the same maximum width as the text */
   border-radius: 10px;
 }
 
@@ -74,4 +58,6 @@ body {
 .summary p {
   font-size: 1.2rem;
   color: #ccc;
+  max-width: 800px;
+  margin: 0 auto;
 }
